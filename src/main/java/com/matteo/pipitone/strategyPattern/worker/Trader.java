@@ -1,5 +1,8 @@
 package com.matteo.pipitone.strategyPattern.worker;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Trader implements IWorker {
     @Override
     public String Work() {

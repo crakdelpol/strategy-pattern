@@ -13,4 +13,9 @@ public class StrategyPatternApplicationTests {
 	public void contextLoads() {
 	}
 
+	@Test
+	public void workerTest(){
+
+	}
+
 }
